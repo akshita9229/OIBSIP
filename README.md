@@ -72,7 +72,9 @@ The following important libraries were used for this project:
 -seaborn
 -sklearn.model_selection.train_test_split
 -sklearn.linear_model.LinearRegression
--Dataset
+
+DATASET
+
 The dataset was loaded using pandas as a DataFrame from the file "sales.csv".
 
 DATA PROCESSING
